@@ -1,0 +1,3 @@
+- Innovation and Technology Development Bureau -ITDB\Desktop\maven class>mvn archetype:generate -DgroupId=craftcommon31 -DartifactId=MavenCommon31 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=craftcommon31 -DartifactId=MavenCommon31 -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
